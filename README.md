@@ -11,10 +11,10 @@
 
 Package                              Version
 ------------------------------------ ---------
--cipy                                1.2.1
--umpy                                1.16.4
-adal                                 1.2.2
-alabaster                            0.7.12
+- -cipy                                1.2.1
+- -umpy                                1.16.4
+- adal                                 1.2.2
+- alabaster                            0.7.12
 anaconda-client                      1.7.2
 anaconda-navigator                   1.9.7
 anaconda-project                     0.8.3
