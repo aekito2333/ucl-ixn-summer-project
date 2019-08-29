@@ -1,13 +1,14 @@
-# ucl-ixn-summer-project
-#### 'script.sql' file contains the database schema 
-#### run '1-extract data.ipynb' to populate the database
-#### run '2-train model.ipynb' to train models on Azure Machine Learning Workspace
-#### run '3-predict.ipynb' to download models and make predictions
+## ucl-ixn-summer-project
+##### 'script.sql' file contains the database schema 
+##### run '1-extract data.ipynb' to populate the database
+##### run '2-train model.ipynb' to train models on Azure Machine Learning Workspace
+##### run '3-predict.ipynb' to download models and make predictions
 
-# dependencies
-#### all notebook files (.ipynb) should run on Azure Notebook without the need to install additional modules
-#### (see https://notebooks.azure.com/#)
-#### however if error is raised regarding packages, below is a full list 
+## dependencies
+##### all notebook files (.ipynb) should run on Azure Notebook without the need to install additional modules
+##### (see https://notebooks.azure.com/#)
+##### however if error is raised regarding packages, below is a full list 
+
 Package                              Version
 ------------------------------------ ---------
 -cipy                                1.2.1
