@@ -1,9 +1,11 @@
 ## ucl-ixn-summer-project
 ##### 'script.sql' file contains the database schema 
+##### for instructions to import 'script.sql' to your database: https://www.telerik.com/support/kb/aspnet-ajax/details/import-and-export-sql-database-to-.sql-script-via-sql-management-studio
+## 
 ##### run '1-extract data.ipynb' to populate the database
 ##### run '2-train model.ipynb' to train models on Azure Machine Learning Workspace
 ##### run '3-predict.ipynb' to download models and make predictions
-
+## 
 ## dependencies
 ##### all notebook files (.ipynb) should run on Azure Notebook without the need to install additional modules
 ##### (see https://notebooks.azure.com/#)
